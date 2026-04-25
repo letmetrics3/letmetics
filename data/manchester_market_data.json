@@ -1,0 +1,1068 @@
+{
+  "Ancoats and Clayton": {
+    "1": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 75
+    },
+    "2": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 82
+    },
+    "3": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 67
+    },
+    "4": {
+      "medianNightlyRate": 165,
+      "occupancyPercent": 74
+    },
+    "5": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 81
+    },
+    "6": {
+      "medianNightlyRate": 220,
+      "occupancyPercent": 66
+    }
+  },
+  "Ardwick": {
+    "1": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 70
+    },
+    "2": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 77
+    },
+    "3": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 62
+    },
+    "4": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 69
+    },
+    "5": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 76
+    },
+    "6": {
+      "medianNightlyRate": 215,
+      "occupancyPercent": 61
+    }
+  },
+  "Baguley": {
+    "1": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 60
+    },
+    "2": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 67
+    },
+    "3": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 74
+    },
+    "4": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 81
+    },
+    "5": {
+      "medianNightlyRate": 165,
+      "occupancyPercent": 66
+    },
+    "6": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 73
+    }
+  },
+  "Bolton District": {
+    "1": {
+      "medianNightlyRate": 70,
+      "occupancyPercent": 81
+    },
+    "2": {
+      "medianNightlyRate": 85,
+      "occupancyPercent": 66
+    },
+    "3": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 73
+    },
+    "4": {
+      "medianNightlyRate": 125,
+      "occupancyPercent": 80
+    },
+    "5": {
+      "medianNightlyRate": 145,
+      "occupancyPercent": 65
+    },
+    "6": {
+      "medianNightlyRate": 170,
+      "occupancyPercent": 72
+    }
+  },
+  "Bradford": {
+    "1": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 73
+    },
+    "2": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 80
+    },
+    "3": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 65
+    },
+    "4": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 72
+    },
+    "5": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 79
+    },
+    "6": {
+      "medianNightlyRate": 215,
+      "occupancyPercent": 64
+    }
+  },
+  "Brooklands": {
+    "1": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 60
+    },
+    "2": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 67
+    },
+    "3": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 74
+    },
+    "4": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 81
+    },
+    "5": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 66
+    },
+    "6": {
+      "medianNightlyRate": 215,
+      "occupancyPercent": 73
+    }
+  },
+  "Burnage": {
+    "1": {
+      "medianNightlyRate": 85,
+      "occupancyPercent": 79
+    },
+    "2": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 64
+    },
+    "3": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 71
+    },
+    "4": {
+      "medianNightlyRate": 150,
+      "occupancyPercent": 78
+    },
+    "5": {
+      "medianNightlyRate": 175,
+      "occupancyPercent": 63
+    },
+    "6": {
+      "medianNightlyRate": 205,
+      "occupancyPercent": 70
+    }
+  },
+  "Bury District": {
+    "1": {
+      "medianNightlyRate": 60,
+      "occupancyPercent": 73
+    },
+    "2": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 80
+    },
+    "3": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 65
+    },
+    "4": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 72
+    },
+    "5": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 79
+    },
+    "6": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 64
+    }
+  },
+  "Charlestown": {
+    "1": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 71
+    },
+    "2": {
+      "medianNightlyRate": 120,
+      "occupancyPercent": 78
+    },
+    "3": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 63
+    },
+    "4": {
+      "medianNightlyRate": 165,
+      "occupancyPercent": 70
+    },
+    "5": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 77
+    },
+    "6": {
+      "medianNightlyRate": 220,
+      "occupancyPercent": 62
+    }
+  },
+  "Cheetham": {
+    "1": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 70
+    },
+    "2": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 77
+    },
+    "3": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 62
+    },
+    "4": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 69
+    },
+    "5": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 76
+    },
+    "6": {
+      "medianNightlyRate": 215,
+      "occupancyPercent": 61
+    }
+  },
+  "Chorlton": {
+    "1": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 76
+    },
+    "2": {
+      "medianNightlyRate": 120,
+      "occupancyPercent": 61
+    },
+    "3": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 68
+    },
+    "4": {
+      "medianNightlyRate": 165,
+      "occupancyPercent": 75
+    },
+    "5": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 60
+    },
+    "6": {
+      "medianNightlyRate": 220,
+      "occupancyPercent": 67
+    }
+  },
+  "Chorlton Park": {
+    "1": {
+      "medianNightlyRate": 85,
+      "occupancyPercent": 74
+    },
+    "2": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 81
+    },
+    "3": {
+      "medianNightlyRate": 125,
+      "occupancyPercent": 66
+    },
+    "4": {
+      "medianNightlyRate": 150,
+      "occupancyPercent": 73
+    },
+    "5": {
+      "medianNightlyRate": 175,
+      "occupancyPercent": 80
+    },
+    "6": {
+      "medianNightlyRate": 205,
+      "occupancyPercent": 65
+    }
+  },
+  "City Centre": {
+    "1": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 69
+    },
+    "2": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 76
+    },
+    "3": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 83
+    },
+    "4": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 68
+    },
+    "5": {
+      "medianNightlyRate": 215,
+      "occupancyPercent": 75
+    },
+    "6": {
+      "medianNightlyRate": 245,
+      "occupancyPercent": 82
+    }
+  },
+  "Crumpsall": {
+    "1": {
+      "medianNightlyRate": 100,
+      "occupancyPercent": 74
+    },
+    "2": {
+      "medianNightlyRate": 120,
+      "occupancyPercent": 81
+    },
+    "3": {
+      "medianNightlyRate": 145,
+      "occupancyPercent": 66
+    },
+    "4": {
+      "medianNightlyRate": 170,
+      "occupancyPercent": 73
+    },
+    "5": {
+      "medianNightlyRate": 195,
+      "occupancyPercent": 80
+    },
+    "6": {
+      "medianNightlyRate": 225,
+      "occupancyPercent": 65
+    }
+  },
+  "Didsbury East": {
+    "1": {
+      "medianNightlyRate": 85,
+      "occupancyPercent": 74
+    },
+    "2": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 81
+    },
+    "3": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 66
+    },
+    "4": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 73
+    },
+    "5": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 80
+    },
+    "6": {
+      "medianNightlyRate": 215,
+      "occupancyPercent": 87
+    }
+  },
+  "Didsbury West": {
+    "1": {
+      "medianNightlyRate": 80,
+      "occupancyPercent": 78
+    },
+    "2": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 85
+    },
+    "3": {
+      "medianNightlyRate": 125,
+      "occupancyPercent": 70
+    },
+    "4": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 77
+    },
+    "5": {
+      "medianNightlyRate": 180,
+      "occupancyPercent": 84
+    },
+    "6": {
+      "medianNightlyRate": 210,
+      "occupancyPercent": 69
+    }
+  },
+  "Fallowfield": {
+    "1": {
+      "medianNightlyRate": 80,
+      "occupancyPercent": 60
+    },
+    "2": {
+      "medianNightlyRate": 100,
+      "occupancyPercent": 67
+    },
+    "3": {
+      "medianNightlyRate": 120,
+      "occupancyPercent": 74
+    },
+    "4": {
+      "medianNightlyRate": 145,
+      "occupancyPercent": 81
+    },
+    "5": {
+      "medianNightlyRate": 170,
+      "occupancyPercent": 66
+    },
+    "6": {
+      "medianNightlyRate": 195,
+      "occupancyPercent": 73
+    }
+  },
+  "Gorton North": {
+    "1": {
+      "medianNightlyRate": 70,
+      "occupancyPercent": 63
+    },
+    "2": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 70
+    },
+    "3": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 77
+    },
+    "4": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 62
+    },
+    "5": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 69
+    },
+    "6": {
+      "medianNightlyRate": 180,
+      "occupancyPercent": 76
+    }
+  },
+  "Gorton South": {
+    "1": {
+      "medianNightlyRate": 70,
+      "occupancyPercent": 81
+    },
+    "2": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 66
+    },
+    "3": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 73
+    },
+    "4": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 80
+    },
+    "5": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 65
+    },
+    "6": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 72
+    }
+  },
+  "Harpurhey": {
+    "1": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 81
+    },
+    "2": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 66
+    },
+    "3": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 73
+    },
+    "4": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 80
+    },
+    "5": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 65
+    },
+    "6": {
+      "medianNightlyRate": 210,
+      "occupancyPercent": 72
+    }
+  },
+  "Higher Blackley": {
+    "1": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 65
+    },
+    "2": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 72
+    },
+    "3": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 79
+    },
+    "4": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 64
+    },
+    "5": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 71
+    },
+    "6": {
+      "medianNightlyRate": 210,
+      "occupancyPercent": 78
+    }
+  },
+  "Hulme": {
+    "1": {
+      "medianNightlyRate": 85,
+      "occupancyPercent": 70
+    },
+    "2": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 77
+    },
+    "3": {
+      "medianNightlyRate": 125,
+      "occupancyPercent": 62
+    },
+    "4": {
+      "medianNightlyRate": 150,
+      "occupancyPercent": 69
+    },
+    "5": {
+      "medianNightlyRate": 175,
+      "occupancyPercent": 76
+    },
+    "6": {
+      "medianNightlyRate": 200,
+      "occupancyPercent": 61
+    }
+  },
+  "Levenshulme": {
+    "1": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 69
+    },
+    "2": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 76
+    },
+    "3": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 61
+    },
+    "4": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 68
+    },
+    "5": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 75
+    },
+    "6": {
+      "medianNightlyRate": 215,
+      "occupancyPercent": 60
+    }
+  },
+  "Longsight": {
+    "1": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 76
+    },
+    "2": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 61
+    },
+    "3": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 68
+    },
+    "4": {
+      "medianNightlyRate": 165,
+      "occupancyPercent": 75
+    },
+    "5": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 60
+    },
+    "6": {
+      "medianNightlyRate": 220,
+      "occupancyPercent": 67
+    }
+  },
+  "Miles Platting and Newton Heath": {
+    "1": {
+      "medianNightlyRate": 70,
+      "occupancyPercent": 62
+    },
+    "2": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 69
+    },
+    "3": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 76
+    },
+    "4": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 61
+    },
+    "5": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 68
+    },
+    "6": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 75
+    }
+  },
+  "Moss Side": {
+    "1": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 74
+    },
+    "2": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 81
+    },
+    "3": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 66
+    },
+    "4": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 73
+    },
+    "5": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 80
+    },
+    "6": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 65
+    }
+  },
+  "Moston": {
+    "1": {
+      "medianNightlyRate": 70,
+      "occupancyPercent": 73
+    },
+    "2": {
+      "medianNightlyRate": 85,
+      "occupancyPercent": 80
+    },
+    "3": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 65
+    },
+    "4": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 72
+    },
+    "5": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 79
+    },
+    "6": {
+      "medianNightlyRate": 180,
+      "occupancyPercent": 64
+    }
+  },
+  "Northenden": {
+    "1": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 76
+    },
+    "2": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 61
+    },
+    "3": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 68
+    },
+    "4": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 75
+    },
+    "5": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 60
+    },
+    "6": {
+      "medianNightlyRate": 190,
+      "occupancyPercent": 67
+    }
+  },
+  "Old Moat": {
+    "1": {
+      "medianNightlyRate": 80,
+      "occupancyPercent": 63
+    },
+    "2": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 70
+    },
+    "3": {
+      "medianNightlyRate": 120,
+      "occupancyPercent": 77
+    },
+    "4": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 62
+    },
+    "5": {
+      "medianNightlyRate": 165,
+      "occupancyPercent": 69
+    },
+    "6": {
+      "medianNightlyRate": 195,
+      "occupancyPercent": 76
+    }
+  },
+  "Oldham District": {
+    "1": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 68
+    },
+    "2": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 75
+    },
+    "3": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 60
+    },
+    "4": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 67
+    },
+    "5": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 74
+    },
+    "6": {
+      "medianNightlyRate": 175,
+      "occupancyPercent": 81
+    }
+  },
+  "Rochdale District": {
+    "1": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 79
+    },
+    "2": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 64
+    },
+    "3": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 71
+    },
+    "4": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 78
+    },
+    "5": {
+      "medianNightlyRate": 150,
+      "occupancyPercent": 63
+    },
+    "6": {
+      "medianNightlyRate": 175,
+      "occupancyPercent": 70
+    }
+  },
+  "Rusholme": {
+    "1": {
+      "medianNightlyRate": 70,
+      "occupancyPercent": 80
+    },
+    "2": {
+      "medianNightlyRate": 85,
+      "occupancyPercent": 65
+    },
+    "3": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 72
+    },
+    "4": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 79
+    },
+    "5": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 64
+    },
+    "6": {
+      "medianNightlyRate": 180,
+      "occupancyPercent": 71
+    }
+  },
+  "Salford District": {
+    "1": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 64
+    },
+    "2": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 71
+    },
+    "3": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 78
+    },
+    "4": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 63
+    },
+    "5": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 70
+    },
+    "6": {
+      "medianNightlyRate": 180,
+      "occupancyPercent": 77
+    }
+  },
+  "Sharston": {
+    "1": {
+      "medianNightlyRate": 85,
+      "occupancyPercent": 69
+    },
+    "2": {
+      "medianNightlyRate": 105,
+      "occupancyPercent": 76
+    },
+    "3": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 61
+    },
+    "4": {
+      "medianNightlyRate": 150,
+      "occupancyPercent": 68
+    },
+    "5": {
+      "medianNightlyRate": 175,
+      "occupancyPercent": 75
+    },
+    "6": {
+      "medianNightlyRate": 205,
+      "occupancyPercent": 60
+    }
+  },
+  "Stockport District": {
+    "1": {
+      "medianNightlyRate": 60,
+      "occupancyPercent": 80
+    },
+    "2": {
+      "medianNightlyRate": 80,
+      "occupancyPercent": 65
+    },
+    "3": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 72
+    },
+    "4": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 79
+    },
+    "5": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 64
+    },
+    "6": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 71
+    }
+  },
+  "Tameside District": {
+    "1": {
+      "medianNightlyRate": 65,
+      "occupancyPercent": 69
+    },
+    "2": {
+      "medianNightlyRate": 80,
+      "occupancyPercent": 76
+    },
+    "3": {
+      "medianNightlyRate": 100,
+      "occupancyPercent": 61
+    },
+    "4": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 68
+    },
+    "5": {
+      "medianNightlyRate": 140,
+      "occupancyPercent": 75
+    },
+    "6": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 60
+    }
+  },
+  "Trafford District": {
+    "1": {
+      "medianNightlyRate": 60,
+      "occupancyPercent": 81
+    },
+    "2": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 66
+    },
+    "3": {
+      "medianNightlyRate": 95,
+      "occupancyPercent": 73
+    },
+    "4": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 80
+    },
+    "5": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 65
+    },
+    "6": {
+      "medianNightlyRate": 155,
+      "occupancyPercent": 72
+    }
+  },
+  "Whalley Range": {
+    "1": {
+      "medianNightlyRate": 80,
+      "occupancyPercent": 64
+    },
+    "2": {
+      "medianNightlyRate": 100,
+      "occupancyPercent": 71
+    },
+    "3": {
+      "medianNightlyRate": 120,
+      "occupancyPercent": 78
+    },
+    "4": {
+      "medianNightlyRate": 145,
+      "occupancyPercent": 63
+    },
+    "5": {
+      "medianNightlyRate": 170,
+      "occupancyPercent": 70
+    },
+    "6": {
+      "medianNightlyRate": 195,
+      "occupancyPercent": 77
+    }
+  },
+  "Wigan District": {
+    "1": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 63
+    },
+    "2": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 70
+    },
+    "3": {
+      "medianNightlyRate": 110,
+      "occupancyPercent": 77
+    },
+    "4": {
+      "medianNightlyRate": 130,
+      "occupancyPercent": 62
+    },
+    "5": {
+      "medianNightlyRate": 150,
+      "occupancyPercent": 69
+    },
+    "6": {
+      "medianNightlyRate": 175,
+      "occupancyPercent": 76
+    }
+  },
+  "Withington": {
+    "1": {
+      "medianNightlyRate": 80,
+      "occupancyPercent": 64
+    },
+    "2": {
+      "medianNightlyRate": 100,
+      "occupancyPercent": 71
+    },
+    "3": {
+      "medianNightlyRate": 120,
+      "occupancyPercent": 78
+    },
+    "4": {
+      "medianNightlyRate": 145,
+      "occupancyPercent": 63
+    },
+    "5": {
+      "medianNightlyRate": 170,
+      "occupancyPercent": 70
+    },
+    "6": {
+      "medianNightlyRate": 195,
+      "occupancyPercent": 77
+    }
+  },
+  "Woodhouse Park": {
+    "1": {
+      "medianNightlyRate": 75,
+      "occupancyPercent": 70
+    },
+    "2": {
+      "medianNightlyRate": 90,
+      "occupancyPercent": 77
+    },
+    "3": {
+      "medianNightlyRate": 115,
+      "occupancyPercent": 62
+    },
+    "4": {
+      "medianNightlyRate": 135,
+      "occupancyPercent": 69
+    },
+    "5": {
+      "medianNightlyRate": 160,
+      "occupancyPercent": 76
+    },
+    "6": {
+      "medianNightlyRate": 185,
+      "occupancyPercent": 61
+    }
+  }
+}
